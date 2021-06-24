@@ -2,7 +2,7 @@
 
 ## Front-end test
 
-Design developed in Reactjs for the front-end developer admission test at Instacarro.
+Project developed in Reactjs for the front-end developer admission test at Instacarro.
 
 - http://frontend-gustavoluigi.s3-website-sa-east-1.amazonaws.com/
 
