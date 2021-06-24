@@ -4,6 +4,10 @@ export default createGlobalStyle`
 
 html {
   font-size: 14px;
+
+  @media (max-width: 1440px) {
+    font-size: 13px;
+  }
 }
 
   body {

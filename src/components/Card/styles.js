@@ -77,6 +77,10 @@ export const BoxImg = styled.div`
       color: var(--green-default);
     }
   }
+
+  @media (max-width: 1440px) {
+    height: 260px;
+  }
 `;
 
 export const Title = styled.h2`

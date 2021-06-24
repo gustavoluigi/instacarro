@@ -5,6 +5,6 @@ export const ContainerStyled = styled.div`
   margin: auto;
 
   @media (max-width: 1440px) {
-    max-width: 1300px;
+    max-width: 1180px;
   }
 `;
